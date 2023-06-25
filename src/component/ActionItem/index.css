@@ -1,0 +1,10 @@
+.listStyle1 {
+  display: flex;
+  border: solid black 1px;
+  width: 100%;
+  margin: 5px;
+}
+.icon1 {
+  padding-top: 20px;
+  margin: 10px;
+}
